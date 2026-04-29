@@ -1,0 +1,4 @@
+﻿Chateau / Entreprise,Website,Email,Confidence,Source,Notes
+Domaine Chapoutier,https://www.chapoutier.com/fr/contact/,bpons@chapoutier.com,HIGH,scraped_mailto,"Email domain matches website, found on official site"
+Domaine Ott,Not Found,contact@domaines-ott.com,LOW,snippet,"From Google snippet, could be third party"
+Domaine Auguste Clape,https://www.oenovinia.com/183_domaine-clape-auguste,contact@oenovinia.com,HIGH,scraped_mailto,"Email domain matches website, found on official site"
